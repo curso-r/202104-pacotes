@@ -18,14 +18,32 @@ main_repo <- "main-pacotes"
 turma <- "202104-pacotes"
 ```
 
-## Informações importantes
+## Pré-requisitos
 
 
 - Os **pacotes necessários** no curso e o código para instalação estão disponíveis [neste link](https://github.com/curso-r/main-pacotes#pacotes-necess%C3%A1rios).
 
-- Nosso livro **Ciência de Dados em R**: [https://livro.curso-r.com/](https://livro.curso-r.com/)
 
-- Nosso blog: [https://curso-r.com/blog/](https://curso-r.com/blog/)
+- [R](https://livro.curso-r.com/1-1-instalacao-do-r.html) e [RStudio](https://livro.curso-r.com/1-1-instalacao-do-r.html) instalados e **atualizados**
+
+- [Git instalado](https://git-scm.com/)
+
+- [Conta no GitHub criada](https://github.com/)
+
+- [Ferramentas de desenvolvimento](https://r-pkgs.org/setup.html#setup-tools):
+
+  - Windows: [RTools instalado](https://livro.curso-r.com/1-3-instalacao-adicionais.html#rtools)
+  
+  - Linux: [r-base-dev](https://livro.curso-r.com/1-3-instalacao-adicionais.html#rtools)
+  
+  - MacOS: Xcode command line tools
+
+Para verificar se as ferramentas de desenvolvimento estão instaladas, utilize a função:
+
+```r
+devtools::has_devel()
+#> Your system is ready to build packages!
+```
 
 ## Dúvidas
 
@@ -89,6 +107,7 @@ googlesheets4::gs4_deauth()
 
 ## Redes sociais da Curso-R
 
+
 Instagram: https://www.instagram.com/cursoo_r/
 
 Twitter: https://twitter.com/curso_r
@@ -98,3 +117,10 @@ Youtube: https://www.youtube.com/c/CursoR6/featured
 Linkedin: https://www.linkedin.com/company/curso-r/
 
 Facebook: https://www.facebook.com/cursodeR
+
+Confira também:
+
+
+- Nosso livro **Ciência de Dados em R**: [https://livro.curso-r.com/](https://livro.curso-r.com/)
+
+- Nosso blog: [https://curso-r.com/blog/](https://curso-r.com/blog/)
