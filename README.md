@@ -1,78 +1,61 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-### ESTAMOS PREPARANDO ESTE CONTEÚDO
+## Informações importantes
 
-<!-- ## Slides -->
+-   Os **pacotes necessários** no curso e o código para instalação estão
+    disponíveis [neste
+    link](https://github.com/curso-r/main-pacotes#pacotes-necess%C3%A1rios).
 
-<!-- ```{r, eval = FALSE} -->
+-   Nosso livro **Ciência de Dados em R**: <https://livro.curso-r.com/>
 
-<!-- ## Slides -->
+-   Nosso blog: <https://curso-r.com/blog/>
 
-<!-- tibble::tibble( -->
+## Dúvidas
 
-<!--   slide = CursoRutils:::list_github_files(main_repo, "slides/", "html"), -->
+Fora do horário de aula ou monitoria:
 
-<!--   link = paste0("https://curso-r.github.io/", main_repo, "/", slide) -->
+-   perguntas gerais sobre o curso deverão ser feitas no Classroom.
 
-<!-- ) %>%  -->
+-   perguntas sobre R, principalmente as que envolverem código, deverão
+    ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
-<!--   dplyr::filter(!stringr::str_detect(slide, "_files/")) -->
+## Slides
 
-<!-- ``` -->
+| Nome              | Link para o slide                                          |
+|:------------------|:-----------------------------------------------------------|
+| slides/index.html | <https://curso-r.github.io/main-pacotes/slides/index.html> |
 
-<!-- ## Scripts usados em aula -->
+## Scripts usados em aula
 
-<!-- ```{r, eval = FALSE} -->
+Aqui colocamos scripts utilizados em aula que são novos ou que são
+versões modificadas do material básico da aula.
 
-<!-- ## Scripts usados em aula -->
+## Dados
 
-<!-- nome_pasta <- "scripts/" -->
+| arquivos                        | link                                                                    |
+|:--------------------------------|:------------------------------------------------------------------------|
+| dados/partidas\_brasileirao.csv | <https://curso-r.github.io/main-pacotes/dados/partidas_brasileirao.csv> |
 
-<!--   tibble::tibble( -->
+## Material extra
 
-<!--     script = list.files(nome_pasta, pattern = ".R"), -->
+Referências extras comentadas nas aulas.
 
-<!--     link = paste0("https://curso-r.github.io/", turma, "/", nome_pasta, script) -->
+| Aula | Tema        | Descrição                                                                                                            |
+|-----:|:------------|:---------------------------------------------------------------------------------------------------------------------|
+|    1 | Referências | [Livro Zen do R](https://curso-r.github.io/zen-do-r/)                                                                |
+|    1 | Referências | [Livro R Packages](https://r-pkgs.org/)                                                                              |
+|    1 | Referências | [Tidyverse Style Guide](https://principles.tidyverse.org/)                                                           |
+|    1 | Referências | [Material de workshop sobre desenvolvimento de pacotes por Jenny Bryan](https://github.com/jennybc/pkg-dev-tutorial) |
 
-<!--   ) -->
+## Redes sociais da Curso-R
 
-<!-- ``` -->
+Instagram: <https://www.instagram.com/cursoo_r/>
 
-<!-- ## Referências do curso -->
+Twitter: <https://twitter.com/curso_r>
 
-<!-- ## Dúvidas -->
+Youtube: <https://www.youtube.com/c/CursoR6/featured>
 
-<!-- Fora do horário de aula ou monitoria: -->
+Linkedin: <https://www.linkedin.com/company/curso-r/>
 
-<!-- - perguntas gerais sobre o curso deverão ser feitas no Classroom. -->
-
-<!-- - perguntas sobre R, principalmente as que envolverem código, deverão ser enviadas no [nosso fórum](https://discourse.curso-r.com/). -->
-
-<!-- ## Aula n -->
-
-<!-- ### Conteúdo abordado -->
-
-<!-- ### Slides -->
-
-<!-- ### Scripts da aula -->
-
-<!-- ```{r, eval = FALSE} -->
-
-<!-- nome_pasta <- "scripts/" -->
-
-<!--   tibble::tibble( -->
-
-<!--     script = list.files(nome_pasta, pattern = ".R")[1:2], -->
-
-<!--     link = paste0("https://curso-r.github.io/", turma, "/", nome_pasta, script) -->
-
-<!--   ) -->
-
-<!-- ``` -->
-
-<!-- ### Comentado na aula e extras -->
-
-<!-- ### Lição de casa -->
-
-<!-- ### Lição de casa extra &#x1f913; -->
+Facebook: <https://www.facebook.com/cursodeR>
