@@ -78,6 +78,18 @@ nome_pasta <- "scripts/"
   )
 ```
 
+## Exercícios 
+
+```{r}
+tibble::tibble(
+  arquivos = CursoRutils:::list_github_files(main_repo, "exercicios/", ".R"),
+  link = paste0("https://curso-r.github.io/", main_repo, "/", arquivos)
+) %>% 
+  knitr::kable()
+```
+
+
+
 ## Dados
 
 ```{r}

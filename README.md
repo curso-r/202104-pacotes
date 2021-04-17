@@ -54,6 +54,14 @@ Fora do horário de aula ou monitoria:
 Aqui colocamos scripts utilizados em aula que são novos ou que são
 versões modificadas do material básico da aula.
 
+## Exercícios
+
+| arquivos                                 | link                                                                              |
+|:-----------------------------------------|:----------------------------------------------------------------------------------|
+| exercicios/01-exercicio-funcao.R         | <https://curso-r.github.io/main-pacotes/exercicios/01-exercicio-funcao.R>         |
+| exercicios/02-exercicio-funcao-2.R       | <https://curso-r.github.io/main-pacotes/exercicios/02-exercicio-funcao-2.R>       |
+| exercicios/03-exercicio-funcao-desafio.R | <https://curso-r.github.io/main-pacotes/exercicios/03-exercicio-funcao-desafio.R> |
+
 ## Dados
 
 | arquivos                        | link                                                                    |
@@ -64,19 +72,25 @@ versões modificadas do material básico da aula.
 
 Referências extras comentadas nas aulas.
 
-| Aula | Tema           | Descrição                                                                                                                     |
-|-----:|:---------------|:------------------------------------------------------------------------------------------------------------------------------|
-|    1 | Referências    | [Livro Zen do R](https://curso-r.github.io/zen-do-r/)                                                                         |
-|    1 | Referências    | [Livro R Packages](https://r-pkgs.org/)                                                                                       |
-|    1 | Boas práticas  | [Tidyverse Style Guide](https://principles.tidyverse.org/)                                                                    |
-|    1 | Pacotes        | [Material de workshop sobre desenvolvimento de pacotes por Jenny Bryan](https://github.com/jennybc/pkg-dev-tutorial)          |
-|    1 | Funções        | [Capítulo sobre Funcões - Livro R for Data Science](https://r4ds.had.co.nz/functions.html)                                    |
-|    2 | Git e GitHub   | [Folha de dicas do Git (cheatsheet)](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/)                     |
-|    2 | Git e GitHub   | [Materiais da R-Ladies SP sobre a Hacktoberfest 2020](https://r-ladies-sao-paulo.github.io/2020-hacktoberfest/)               |
-|    2 | Git e GitHub   | [Dúvida no discourse: erro com use\_github()](https://discourse.curso-r.com/t/github-erro-ao-usar-a-funcao-use-github/1111/4) |
-|    2 | GitHub Actions | [Crontab](https://crontab.guru/)                                                                                              |
-|    2 | GitHub Actions | [Documentação do GitHub Actions](https://docs.github.com/pt/actions/learn-github-actions/introduction-to-github-actions)      |
-|    2 | GitHub Actions | [Repositório Actions](https://github.com/r-lib/actions/tree/master/examples#quickstart-ci-workflow)                           |
+| Aula | Tema            | Descrição                                                                                                                                                                          |
+|-----:|:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1 | Referências     | [Livro Zen do R](https://curso-r.github.io/zen-do-r/)                                                                                                                              |
+|    1 | Referências     | [Livro R Packages](https://r-pkgs.org/)                                                                                                                                            |
+|    1 | Boas práticas   | [Tidyverse Style Guide](https://principles.tidyverse.org/)                                                                                                                         |
+|    1 | Pacotes         | [Material de workshop sobre desenvolvimento de pacotes por Jenny Bryan](https://github.com/jennybc/pkg-dev-tutorial)                                                               |
+|    1 | Funções         | [Capítulo sobre Funcões - Livro R for Data Science](https://r4ds.had.co.nz/functions.html)                                                                                         |
+|    1 | Tirando dúvidas | [Post: Desvendando erros: Entendendo mensagens de erro comuns em R.](https://blog.curso-r.com/posts/2021-03-29-desvendando-erros/)                                                 |
+|    1 | Referências     | [Livro Ciência de Dados em R](https://livro.curso-r.com/)                                                                                                                          |
+|    1 | Pacotes         | [Siglas de autoria para o DESCRIPTION](https://r-pkgs.org/description.html#author)                                                                                                 |
+|    1 | Tirando dúvidas | [Pacote reprex](https://reprex.tidyverse.org/)                                                                                                                                     |
+|    1 | Dúvidas         | [renv - reproducible environments for your R projects](https://rstudio.github.io/renv/articles/renv.html)                                                                          |
+|    2 | Git e GitHub    | [Folha de dicas do Git (cheatsheet)](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/)                                                                          |
+|    2 | Git e GitHub    | [Materiais da R-Ladies SP sobre a Hacktoberfest 2020](https://r-ladies-sao-paulo.github.io/2020-hacktoberfest/)                                                                    |
+|    2 | Git e GitHub    | [Dúvida no discourse: erro com use\_github()](https://discourse.curso-r.com/t/github-erro-ao-usar-a-funcao-use-github/1111/4)                                                      |
+|    2 | GitHub Actions  | [Crontab](https://crontab.guru/)                                                                                                                                                   |
+|    2 | GitHub Actions  | [Documentação do GitHub Actions](https://docs.github.com/pt/actions/learn-github-actions/introduction-to-github-actions)                                                           |
+|    2 | GitHub Actions  | [Repositório Actions](https://github.com/r-lib/actions/tree/master/examples#quickstart-ci-workflow)                                                                                |
+|    2 | Git e GitHub    | [Introdução ao controle de versão com git, GitHub e RStudio](https://mauriciovancine.github.io/short-course-git-github-rstudio/slides/pres_short_course_git_github_rstudio.html#1) |
 
 ## Redes sociais da Curso-R
 
