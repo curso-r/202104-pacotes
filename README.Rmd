@@ -24,26 +24,7 @@ turma <- "202104-pacotes"
 - Os **pacotes necessários** no curso e o código para instalação estão disponíveis [neste link](https://github.com/curso-r/main-pacotes#pacotes-necess%C3%A1rios).
 
 
-- [R](https://livro.curso-r.com/1-1-instalacao-do-r.html) e [RStudio](https://livro.curso-r.com/1-1-instalacao-do-r.html) instalados e **atualizados**
-
-- [Git instalado](https://git-scm.com/)
-
-- [Conta no GitHub criada](https://github.com/)
-
-- [Ferramentas de desenvolvimento](https://r-pkgs.org/setup.html#setup-tools):
-
-  - Windows: [RTools instalado](https://livro.curso-r.com/1-3-instalacao-adicionais.html#rtools)
-  
-  - Linux: [r-base-dev](https://livro.curso-r.com/1-3-instalacao-adicionais.html#rtools)
-  
-  - MacOS: Xcode command line tools
-
-Para verificar se as ferramentas de desenvolvimento estão instaladas, utilize a função:
-
-```r
-devtools::has_devel()
-#> Your system is ready to build packages!
-```
+- A lista de softwares necessários está disponível  [neste link](https://curso-r.github.io/main-pacotes/#pr-requisitos)
 
 ## Dúvidas
 
@@ -88,6 +69,15 @@ tibble::tibble(
   knitr::kable()
 ```
 
+## Resolução de exercícios 
+
+```{r}
+tibble::tibble(
+  arquivos = CursoRutils:::list_github_files(main_repo, "resolucao_exercicios/", ".R"),
+  link = paste0("https://curso-r.github.io/", main_repo, "/", arquivos)
+) %>% 
+  knitr::kable()
+```
 
 
 ## Dados

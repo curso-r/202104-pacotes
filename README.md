@@ -7,32 +7,8 @@
     disponíveis [neste
     link](https://github.com/curso-r/main-pacotes#pacotes-necess%C3%A1rios).
 
--   [R](https://livro.curso-r.com/1-1-instalacao-do-r.html) e
-    [RStudio](https://livro.curso-r.com/1-1-instalacao-do-r.html)
-    instalados e **atualizados**
-
--   [Git instalado](https://git-scm.com/)
-
--   [Conta no GitHub criada](https://github.com/)
-
--   [Ferramentas de
-    desenvolvimento](https://r-pkgs.org/setup.html#setup-tools):
-
-    -   Windows: [RTools
-        instalado](https://livro.curso-r.com/1-3-instalacao-adicionais.html#rtools)
-
-    -   Linux:
-        [r-base-dev](https://livro.curso-r.com/1-3-instalacao-adicionais.html#rtools)
-
-    -   MacOS: Xcode command line tools
-
-Para verificar se as ferramentas de desenvolvimento estão instaladas,
-utilize a função:
-
-``` r
-devtools::has_devel()
-#> Your system is ready to build packages!
-```
+-   A lista de softwares necessários está disponível [neste
+    link](https://curso-r.github.io/main-pacotes/#pr-requisitos)
 
 ## Dúvidas
 
@@ -56,11 +32,24 @@ versões modificadas do material básico da aula.
 
 ## Exercícios
 
-| arquivos                                 | link                                                                              |
-|:-----------------------------------------|:----------------------------------------------------------------------------------|
-| exercicios/01-exercicio-funcao.R         | <https://curso-r.github.io/main-pacotes/exercicios/01-exercicio-funcao.R>         |
-| exercicios/02-exercicio-funcao-2.R       | <https://curso-r.github.io/main-pacotes/exercicios/02-exercicio-funcao-2.R>       |
-| exercicios/03-exercicio-funcao-desafio.R | <https://curso-r.github.io/main-pacotes/exercicios/03-exercicio-funcao-desafio.R> |
+| arquivos                                                | link                                                                                            |
+|:--------------------------------------------------------|:------------------------------------------------------------------------------------------------|
+| exercicios/01-exercicio-funcao.R                        | <https://curso-r.github.io/main-pacotes/exercicios/01-exercicio-funcao.R>                       |
+| exercicios/02-exercicio-funcao-2.R                      | <https://curso-r.github.io/main-pacotes/exercicios/02-exercicio-funcao-2.R>                     |
+| exercicios/03-exercicio-funcao-desafio.R                | <https://curso-r.github.io/main-pacotes/exercicios/03-exercicio-funcao-desafio.R>               |
+| resolucao\_exercicios/01-exercicio-funcao-res.R         | <https://curso-r.github.io/main-pacotes/resolucao_exercicios/01-exercicio-funcao-res.R>         |
+| resolucao\_exercicios/02-exercicio-funcao-2-res.R       | <https://curso-r.github.io/main-pacotes/resolucao_exercicios/02-exercicio-funcao-2-res.R>       |
+| resolucao\_exercicios/03-exercicio-funcao-desafio-res.R | <https://curso-r.github.io/main-pacotes/resolucao_exercicios/03-exercicio-funcao-desafio-res.R> |
+| resolucao\_exercicios/test-01-exercicio-funcao-res.R    | <https://curso-r.github.io/main-pacotes/resolucao_exercicios/test-01-exercicio-funcao-res.R>    |
+
+## Resolução de exercícios
+
+| arquivos                                                | link                                                                                            |
+|:--------------------------------------------------------|:------------------------------------------------------------------------------------------------|
+| resolucao\_exercicios/01-exercicio-funcao-res.R         | <https://curso-r.github.io/main-pacotes/resolucao_exercicios/01-exercicio-funcao-res.R>         |
+| resolucao\_exercicios/02-exercicio-funcao-2-res.R       | <https://curso-r.github.io/main-pacotes/resolucao_exercicios/02-exercicio-funcao-2-res.R>       |
+| resolucao\_exercicios/03-exercicio-funcao-desafio-res.R | <https://curso-r.github.io/main-pacotes/resolucao_exercicios/03-exercicio-funcao-desafio-res.R> |
+| resolucao\_exercicios/test-01-exercicio-funcao-res.R    | <https://curso-r.github.io/main-pacotes/resolucao_exercicios/test-01-exercicio-funcao-res.R>    |
 
 ## Dados
 
