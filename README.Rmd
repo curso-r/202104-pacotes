@@ -66,6 +66,7 @@ tibble::tibble(
   arquivos = CursoRutils:::list_github_files(main_repo, "exercicios/", ".R"),
   link = paste0("https://curso-r.github.io/", main_repo, "/", arquivos)
 ) %>% 
+  dplyr::filter(stringr::str_starts(arquivos, "exercicios/")) %>% 
   knitr::kable()
 ```
 
