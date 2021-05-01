@@ -52,11 +52,18 @@ tibble::tibble(
 Aqui colocamos scripts utilizados em aula que são novos ou que são versões modificadas do material básico da aula.
 
 ```{r, eval = FALSE}
-nome_pasta <- "scripts/"
-  tibble::tibble(
-    script = list.files(nome_pasta, pattern = ".R"),
-    link = paste0("https://curso-r.github.io/", turma, "/", nome_pasta, script)
+nome_pasta <- "aula-pratica"
+tibble::tibble(
+  script = list.dirs(nome_pasta, recursive = FALSE),
+  link = paste0(
+    "https://github.com/curso-r/",
+    turma,
+    "/tree/master/assets",
+    turma,
+    "/",
+    script
   )
+)
 ```
 
 ## Exercícios 

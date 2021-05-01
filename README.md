@@ -81,6 +81,7 @@ Referências extras comentadas nas aulas.
 |    2 | Dúvidas         | [Pacote installr - para Windows](https://github.com/talgalili/installr)                                                                                                            |
 |    2 | Testes          | [Palestra do Hadley Wickham sobre testes](https://www.youtube.com/watch?v=1ZrjWKcG1C4)                                                                                             |
 |    2 | Testes          | [Pacote covr](https://covr.r-lib.org/)                                                                                                                                             |
+|    3 | GitHub          | [Termos main e master](https://blog.curso-r.com/posts/2020-07-27-github-main-branch/)                                                                                              |
 
 ## Redes sociais da Curso-R
 
