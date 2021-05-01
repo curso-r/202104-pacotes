@@ -30,6 +30,10 @@ Fora do horário de aula ou monitoria:
 Aqui colocamos scripts utilizados em aula que são novos ou que são
 versões modificadas do material básico da aula.
 
+| script                 | link                                                                           |
+|:-----------------------|:-------------------------------------------------------------------------------|
+| aula-pratica/meupacote | <https://github.com/curso-r/202104-pacotes/tree/master/aula-pratica/meupacote> |
+
 ## Exercícios
 
 | arquivos                                 | link                                                                              |
